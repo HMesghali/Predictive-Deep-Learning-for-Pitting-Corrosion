@@ -1,6 +1,8 @@
 # Predictive-Deep-Learning-for-Pitting-Corrosion
 ## Overview
-This project predicts pitting corrosion depths in oil and gas pipelines using deep learning models.
+Despite significant efforts and investments in the renewable energy sector, fossil fuels continue to provide the majority of the world's energy supply. Transmission pipelines, which are extensively used in the oil and gas industry, are vulnerable to various failure mechanisms, such as corrosion. Among these, pitting corrosion in offshore pipelines is the most prevalent type of external corrosion.
+
+This project explores the potential of deep learning models (Generalization and Generalization-Memorization models) to predict the maximum depth of pitting corrosion in oil and gas pipelines. The models are trained considering various characteristics of the soil where the pipe is buried and different types of protective coating on the pipes. This approach aims to enhance the safety and reliability of transmission pipelines by accurately predicting corrosion depths.
 
 ## Contents
 - **Jupyter Notebook**: Code for data preprocessing, model training, and evaluation.
