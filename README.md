@@ -4,8 +4,8 @@ This project predicts pitting corrosion depths in oil and gas pipelines using de
 
 ## Contents
 - **Jupyter Notebook**: Code for data preprocessing, model training, and evaluation.
-- **Dataset**: Data used for training and testing the models.
-- **Dataset Ling**: https://www.researchgate.net/publication/318835278_Pitting_Corrosion_of_Underground_Pipelines_Related_to_Local_Soil_and_Pipe_Characteristics
+- **Dataset**: Pitting Corrosion of Underground Pipelines Related to Local Soil and Pipe Characteristics
+- **Dataset Link**: https://www.researchgate.net/publication/318835278_Pitting_Corrosion_of_Underground_Pipelines_Related_to_Local_Soil_and_Pipe_Characteristics
 - **Paper Link**: https://www.sciencedirect.com/science/article/pii/S0957582023002975
 
 ## Usage
