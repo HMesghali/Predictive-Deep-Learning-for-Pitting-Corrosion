@@ -9,6 +9,7 @@ This project explores the potential of deep learning models (Generalization and 
 - **Dataset**: Pitting Corrosion of Underground Pipelines Related to Local Soil and Pipe Characteristics
 - **Dataset Link**: https://www.researchgate.net/publication/318835278_Pitting_Corrosion_of_Underground_Pipelines_Related_to_Local_Soil_and_Pipe_Characteristics
 - **Paper Link**: https://www.sciencedirect.com/science/article/pii/S0957582023002975
+- **Important Credit Information**: If you plan to use this dataset in your own projects, please ensure that you provide appropriate credit to the individuals and organizations responsible for its collection and curation. Proper attribution not only respects the hard work of the original authors but also promotes academic integrity and collaboration within the research community.
 
 ## Usage
 1. Clone the repository.
